@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>recursos</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>FF8000</corbanda>
+        <cornavega>FF8000</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Teoria de Conjuntos</titulo>
+        <subtitulo>Operaciones entre conjuntos</subtitulo>
+        <autor>JOSE JAVIER ZAPATA POLO</autor>
+        <logo>logo.png</logo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Felicitaciones</correcto>
+        <incorrecto son="" modo="1" >Sigue Intentando...</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-23">Diapositiva1.JPG</imaxe>
+              <texto posx="98" posy="161" ancho="145" largo="120"><![CDATA[
+<p align="center">
+<font color="#FF0000" face="Arial" size="28"><br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>33</tipo>
+              <modo>0</modo>
+              <forma>0</forma>
+              <numero>3</numero>
+              <numero>3</numero>
+        </paxina>
+        <paxina id="3" >
+              <tipo>33</tipo>
+              <modo>0</modo>
+              <forma>0</forma>
+              <numero>3</numero>
+              <numero>3</numero>
+        </paxina>
+        <paxina id="4" >
+              <tipo>33</tipo>
+              <modo>0</modo>
+              <forma>0</forma>
+              <numero>3</numero>
+              <numero>3</numero>
+        </paxina>
+        <paxina id="5" >
+              <tipo>33</tipo>
+              <modo>0</modo>
+              <forma>0</forma>
+              <numero>4</numero>
+              <numero>3</numero>
+        </paxina>
+        <paxina id="6" >
+              <tipo>33</tipo>
+              <modo>0</modo>
+              <forma>0</forma>
+              <numero>4</numero>
+              <numero>4</numero>
+        </paxina>
+        <paxina id="7" >
+              <tipo>2</tipo>
+              <texto posx="176" posy="6" ancho="591" largo="340"><![CDATA[<font color ="blue" face ="Calibri">VIDEO OPERACIONES BASICAS</font><br><font size="12"><br><iframe width="560" height="320" src="https://www.youtube.com/embed/cocWlbd1MTE?si=1PQo21Bd5TqwLmL2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></font>]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+    </libro>
+</lim>
